@@ -1,0 +1,131 @@
+absl-py @ file:///C:/ci/absl-py_1600279486584/work
+aiohttp @ file:///C:/ci/aiohttp_1602512552257/work
+arlpy==1.7.0
+astor==0.8.1
+async-timeout==3.0.1
+attrs @ file:///tmp/build/80754af9/attrs_1600298409949/work
+backports.shutil-which==3.5.2
+bleak==0.14.2
+bleak-winrt==1.1.1
+blinker==1.4
+bokeh==2.3.3
+brotlipy==0.7.0
+cachetools @ file:///tmp/build/80754af9/cachetools_1596822027882/work
+certifi==2021.5.30
+cffi @ file:///C:/ci/cffi_1600681203656/work
+chardet==3.0.4
+click==7.1.2
+colorama==0.4.4
+cryptography @ file:///C:/ci/cryptography_1601046909128/work
+cycler==0.10.0
+Cython @ file:///C:/ci/cython_1626257069493/work
+dataclasses==0.8
+docutils==0.17.1
+dtaidistance==2.3.1
+dtw-python==1.1.10
+ffmpeg==1.4
+future==0.18.2
+gast==0.2.2
+geohash2==1.1
+godirect==1.1.3
+google-auth @ file:///tmp/build/80754af9/google-auth_1601995530934/work
+google-auth-oauthlib==0.4.1
+google-pasta==0.2.0
+grpcio @ file:///C:/ci/grpcio_1597406495377/work
+h5py==2.10.0
+hidapi==0.11.0.post2
+hilbertcurve==2.0.5
+idna @ file:///tmp/build/80754af9/idna_1593446292537/work
+idna-ssl==1.1.0
+importlib-metadata @ file:///tmp/build/80754af9/importlib-metadata_1602276842396/work
+Jinja2==3.0.1
+joblib @ file:///home/conda/feedstock_root/build_artifacts/joblib_1612898609989/work
+Keras-Applications @ file:///tmp/build/80754af9/keras-applications_1594366238411/work
+Keras-Preprocessing==1.1.0
+keyboard==0.13.5
+kiwisolver @ file:///C:/ci/kiwisolver_1612282446297/work
+llvmlite==0.36.0
+Markdown @ file:///C:/ci/markdown_1603216561566/work
+MarkupSafe==2.0.1
+matplotlib @ file:///C:/ci/matplotlib-suite_1613408055530/work
+mediapipe==0.8.3
+mGesf==0.0.1
+mkl-fft==1.3.0
+mkl-random==1.1.1
+mkl-service==2.3.0
+Morton3D==1.0.1
+MouseInfo==0.1.3
+multidict @ file:///C:/ci/multidict_1600456490312/work
+numba==0.53.1
+numpy==1.19.3
+numpy-hilbert-curve==1.0.1
+oauthlib==3.1.0
+olefile==0.46
+opencv-python==4.5.2.52
+opt-einsum==3.1.0
+packaging==21.0
+pandas @ file:///C:/ci/pandas_1608056614942/work
+pgcolorbar==1.1.1
+Pillow @ file:///C:/ci/pillow_1617386325740/work
+protobuf==3.13.0
+pyargus==1.1.post1
+pyasn1==0.4.8
+pyasn1-modules==0.2.8
+PyAutoGUI==0.9.52
+pycparser @ file:///tmp/build/80754af9/pycparser_1594388511720/work
+pydub==0.25.1
+PyGetWindow==0.0.9
+PyJWT==1.7.1
+PyMsgBox==1.0.9
+PyOpenGL==3.1.5
+pyOpenSSL @ file:///tmp/build/80754af9/pyopenssl_1594392929924/work
+pyparsing @ file:///home/linux1/recipes/ci/pyparsing_1610983426697/work
+pyperclip==1.8.2
+pyqt-led==0.0.6
+PyQt5==5.15.1
+PyQt5-Qt5==5.15.2
+PyQt5-sip==12.9.0
+pyqtgraph==0.11.1
+pyreadline==2.1
+PyRect==0.1.4
+PyScreeze==0.1.27
+pyserial==3.5
+PySocks==1.7.1
+python-dateutil @ file:///home/ktietz/src/ci/python-dateutil_1611928101742/work
+PyTweening==1.0.3
+pytz @ file:///tmp/build/80754af9/pytz_1612215392582/work
+PyWavelets==1.1.1
+PyYAML==5.4.1
+qimage2ndarray==1.8.3
+requests @ file:///tmp/build/80754af9/requests_1592841827918/work
+requests-oauthlib==1.3.0
+rsa @ file:///tmp/build/80754af9/rsa_1596998415516/work
+scikit-learn @ file:///C:/ci/scikit-learn_1622739439730/work
+scipy @ file:///C:/ci/scipy_1597675683670/work
+seaborn @ file:///tmp/build/80754af9/seaborn_1608578541026/work
+Shapely==1.7.1
+six==1.15.0
+sockets==1.0.0
+sparse==0.12.0
+tensorboard @ file:///home/builder/ktietz/aggregate/tensorflow_recipes/ci_baze37/tensorboard_1622025863084/work/tensorboard-2.5.0-py3-none-any.whl
+tensorboard-plugin-wit==1.6.0
+tensorflow==2.1.0
+tensorflow-estimator @ file:///home/builder/ktietz/aggregate/tensorflow_recipes/ci_baze37/tensorflow-estimator_1622026529081/work/tensorflow_estimator-2.5.0-py2.py3-none-any.whl
+termcolor==1.1.0
+threadpoolctl @ file:///tmp/tmp79xdzxkt/threadpoolctl-2.1.0-py3-none-any.whl
+tornado @ file:///C:/ci/tornado_1606942379977/work
+tqdm @ file:///tmp/build/80754af9/tqdm_1635330843403/work
+traj-dist==1.1
+typing-extensions @ file:///tmp/build/80754af9/typing_extensions_1598376058250/work
+urllib3 @ file:///tmp/build/80754af9/urllib3_1603305693037/work
+utm==0.7.0
+vmdpy==0.2
+Werkzeug==0.14.1
+win-inet-pton==1.1.0
+wincertstore==0.2
+wrapt==1.12.1
+xarray==0.16.2
+xlrd==1.2.0
+XlsxWriter @ file:///tmp/build/80754af9/xlsxwriter_1617224712951/work
+yarl @ file:///C:/ci/yarl_1602696824692/work
+zipp @ file:///tmp/build/80754af9/zipp_1603306325174/work
